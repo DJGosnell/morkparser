@@ -1,0 +1,18 @@
+Installation
+------------
+
+
+Installation for all platforms is straight forward. Just run 
+ qmake  
+and then 
+ make/nmake/gmake  depending on your platform
+
+
+Compiling
+---------
+
+Requirements:
+  - Qt 4.0.0 or higher. It should be possible to compile EmailMessage for Qt3 with small modifications.
+
+You can obtain Qt at http://www.trolltech.com/
+
